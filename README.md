@@ -1,7 +1,9 @@
-repository-name
-# Repository Name
+crew-ai
+# Crew AI
 
-Based on "ABC" at https://www.abc.com/
+Based on "Crew AI" at https://github.com/joaomdmoura/crewAI
+
+Based on "How I Made AI Assistants Do My Work For Me: CrewAI" at https://www.youtube.com/watch?v=kJvXT25LkwA
 
 ## 100 - Introduction
 
